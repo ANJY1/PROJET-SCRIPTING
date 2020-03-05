@@ -1,0 +1,2 @@
+# PROJET-SCRIPTING
+Projet réalisé en langage shell Date:02/28/20+02-18       pourcentage des fichiers.exe:9%
