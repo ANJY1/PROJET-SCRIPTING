@@ -1,0 +1,9 @@
+# PROJET-SCRIPTING
+Projet réalisé en langage shell 
+Options:
+	-h, -help	pour afficher les options d'aide
+	-search    	afficher les fichiers exécutables de l'utilisateur courant 
+	-search-rm	supprimer les fichiers exécutables de l'utilisateur courant
+        -search-ls	lister en détail les fichiers exécutables de l'utilisateur courant
+        -per     	évaluer le pourcentage des fichiers
+        -s              l'option de sauvegarde
