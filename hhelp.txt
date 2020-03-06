@@ -1,0 +1,9 @@
+# PROJET-SCRIPTING
+Projet réalisé en langage shell 
+
+
+Options:
+	-h, -help	                   afficher les options d'aide
+	-find -perm -u=x       	           afficher les exécuatbles de l'utilisateur courant
+	-find -perm -u=x | ls -lsha | less lister les exécutales de l'utilisateur
+        -find -perm -u=x -delete           supprimer les exécutables de l'utilisateur
