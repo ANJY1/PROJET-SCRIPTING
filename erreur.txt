@@ -1,0 +1,6 @@
+# PROJET-SCRIPTING
+Projet réalisé en langage shell 
+
+
+
+la commande saisie n'existe pas consulter le help avec -h pour plus d'information
